@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\bin\Debug\gerade Zahl.exe.config
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\bin\Debug\gerade Zahl.exe
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\bin\Debug\gerade Zahl.pdb
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade Zahl.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade_Zahl.Form1.resources
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade_Zahl.Properties.Resources.resources
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade Zahl.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade Zahl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade Zahl.exe
+C:\Users\Administrator\source\repos\gerade Zahl\gerade Zahl\obj\Debug\gerade Zahl.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\bin\Debug\SystemSound.exe.config
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\bin\Debug\SystemSound.exe
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\bin\Debug\SystemSound.pdb
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.Form1.resources
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.exe
+C:\Users\Administrator\source\repos\SystemSound\SystemSound\obj\Debug\SystemSound.pdb
