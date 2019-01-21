@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\bin\Debug\DateienSpeichern.exe.config
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\bin\Debug\DateienSpeichern.exe
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\bin\Debug\DateienSpeichern.pdb
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.Form1.resources
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.exe
+C:\Users\Administrator\source\repos\DateienSpeichern\DateienSpeichern\obj\Debug\DateienSpeichern.pdb
